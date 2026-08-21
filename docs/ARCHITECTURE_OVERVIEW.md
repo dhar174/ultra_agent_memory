@@ -1,8 +1,8 @@
-# Ultra Agent Memory — Master Architecture Overview
+# Ultra Agent Memory Master Architecture Overview
 
-> **Status:** Living concept/specification document. Coverage-first, not implementation-final.
->
-> **Purpose:** Capture the complete current design space for `ultra_agent_memory` in one source of truth before decomposing it into narrower architecture, ontology, schema, workflow, retrieval, graph, subagent, API, and operations specifications.
+**Status:** Living concept/specification document. Coverage-first, not implementation-final.
+
+**Purpose:** Capture the complete current design space for `ultra_agent_memory` in one source of truth before decomposing it into narrower architecture, ontology, schema, workflow, retrieval, graph, subagent, API, and operations specifications.
 
 ## 1. Vision
 
